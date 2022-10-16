@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+.__pycache__/
+venv
+.vscode
+.simple-clean-arch-fast-api-template-py3.9
